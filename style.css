@@ -71,7 +71,7 @@ li {
     justify-content: center
 }
 
-header div{
+header.row{
     display: flex;
     flex-direction: column;
     max-width: 50%;
